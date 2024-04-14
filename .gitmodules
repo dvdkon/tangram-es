@@ -3,7 +3,7 @@
 	url = https://github.com/tangrams/isect2d.git
 [submodule "core/dependencies/csscolorparser"]
 	path = core/deps/css-color-parser-cpp
-	url = https://github.com/tangrams/css-color-parser-cpp
+	url = https://github.com/dvdkon/css-color-parser-cpp
 [submodule "core/include/variant"]
 	path = core/deps/variant
 	url = https://github.com/tangrams/variant
@@ -18,7 +18,7 @@
 	url = https://github.com/tangrams/duktape.git
 [submodule "external/yaml-cpp"]
 	path = core/deps/yaml-cpp
-	url = https://github.com/tangrams/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp
 [submodule "external/glfw"]
 	path = platforms/common/glfw
 	url = https://github.com/glfw/glfw
